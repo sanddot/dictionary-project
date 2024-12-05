@@ -14,7 +14,10 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
-          Coded by <a href="">Sandra Domeikiene</a>
+          Coded by{" "}
+          <a href="https://github.com/sanddot" target="_blank" rel="noreferrer">
+            Sandra Domeikiene
+          </a>
         </footer>
       </div>
     </div>
