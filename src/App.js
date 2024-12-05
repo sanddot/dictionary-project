@@ -6,11 +6,16 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Welcome to the Dictionary App</h1>
+          <h1>
+            Welcome <br /> to the Dictionary App
+          </h1>
         </header>
         <main>
           <Dictionary />
         </main>
+        <footer>
+          Coded by <a href="">Sandra Domeikiene</a>
+        </footer>
       </div>
     </div>
   );
