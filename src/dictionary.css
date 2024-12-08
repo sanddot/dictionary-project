@@ -3,5 +3,12 @@
 }
 .Dictionary input {
   width: 100%;
-  padding: 8px 5px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  outline: none;
+  background-color: #fbfbfb;
+}
+.Dictionary label {
+  opacity: 0.6;
 }

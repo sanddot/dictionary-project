@@ -3,7 +3,9 @@
   display: block;
   margin: 0 auto;
 }
-
+.App h1 {
+  font-weight: 700;
+}
 .App-header {
   margin: 30px 0;
   text-align: center;
