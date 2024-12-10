@@ -1,0 +1,14 @@
+.Synonyms {
+  margin: 10px 0 0;
+}
+.Synonyms li {
+  display: inline-block;
+  padding: 5px 15px;
+  margin: 0 3px 5px 0;
+  font-size: 13px;
+  border: 1px solid grey;
+  border-radius: 20px;
+}
+.Synonyms ul {
+  padding: 0;
+}

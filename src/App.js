@@ -7,11 +7,11 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <h1>
-            Welcome <br /> to the Dictionary App
+            Welcome <br />
           </h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="light" />
         </main>
         <footer>
           Coded by{" "}
