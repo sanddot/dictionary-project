@@ -6,12 +6,10 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>
-            Welcome <br />
-          </h1>
+          <h1>Dictionary App</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="light" />
+          <Dictionary defaultKeyword="water" />
         </main>
         <footer>
           Coded by{" "}
