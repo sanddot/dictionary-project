@@ -61,11 +61,11 @@ export default function Dictionary(props) {
           </div>
         </section>
         <div className="row">
-          <div className="col-3">
-            <Photos photos={photos} />
-          </div>
-          <div className="col-9">
+          <div className="col-8">
             <Results results={results} />
+          </div>
+          <div className="col-4">
+            <Photos photos={photos} />
           </div>
         </div>
       </div>
